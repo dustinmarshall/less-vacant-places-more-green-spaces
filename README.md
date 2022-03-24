@@ -6,7 +6,7 @@ git clone https://github.com/uchicago-CAPP30122-win-2022/proj-less-parking-more-
 
 2. Go to the cloned repository:
 ```
-cd ./proj-less-parking-more-parks
+cd ./less-vacant-places-more-green-spaces
 ```
 
 3. Install the virtual environment:
